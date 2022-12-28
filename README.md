@@ -1,2 +1,2 @@
 # github-actions
-CI-CD by GhitHub
+CI-CD by GitHub
